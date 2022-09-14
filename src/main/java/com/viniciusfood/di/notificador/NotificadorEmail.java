@@ -10,5 +10,5 @@ public class NotificadorEmail {
 		System.out.printf("Notificando %s através do e-mail %s: %s\n", 
 				cliente.getNome(), cliente.getEmail(), mensagem);
 	}
-	
+	//Teste para commit
 }
